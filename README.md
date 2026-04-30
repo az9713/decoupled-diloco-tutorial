@@ -8,7 +8,7 @@ Lecture notes for understanding Decoupled DiLoCo from distributed systems basics
 
 ![Claude design session](./claude-design-session.jpg)
 
-[Watch the design session video](VIDEO_URL_PLACEHOLDER)
+[Watch the design session video](https://github.com/user-attachments/assets/e3db15d8-e4c3-4189-b858-350998c229ef)
 
 ## Notes
 
