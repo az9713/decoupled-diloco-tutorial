@@ -2,6 +2,12 @@
 
 Lecture notes for understanding Decoupled DiLoCo from distributed systems basics through Pathways, DiLoCo, Streaming DiLoCo, and the Decoupled DiLoCo architecture.
 
+## Design Session
+
+![Claude design session](./claude-design-session.jpg)
+
+[Watch the design session video](VIDEO_URL_PLACEHOLDER)
+
 ## Notes
 
 - [Lecture notes](./decoupled_diloco_lecture_notes.md)
