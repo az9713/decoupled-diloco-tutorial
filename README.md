@@ -4,6 +4,8 @@ Lecture notes for understanding Decoupled DiLoCo from distributed systems basics
 
 ## Design Session
 
+[Claude Design](https://claude.ai/design) was used to create a motion design rendered as HTML, which was then recorded as an mp4.
+
 ![Claude design session](./claude-design-session.jpg)
 
 [Watch the design session video](VIDEO_URL_PLACEHOLDER)
